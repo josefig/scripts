@@ -1,4 +1,4 @@
-scripts
+General purpose scripts
 =======
 
-general scripts
+In this repo are going to be added all my general purpose scripts
